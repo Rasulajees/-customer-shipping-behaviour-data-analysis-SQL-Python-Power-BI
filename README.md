@@ -4,7 +4,7 @@ This project represents a complete, industry standard, end-to-end data analytics
 This project is perfect for:
 - 📊 Data Analyst aspirants who want to build a strong **Portfolio Project** for interviews and LinkedIn
 - 📚 Anyone learning Python, SQL, and Power BI
-- 💼 Professionals preparing for interviews in Data Analytics, Data Science or Product Analytics roles
+- 💼 Professionals preparing for interviews in Data Analytics, Data Science or Product Analytics, Power BI Analyst, Data operations Analyst, Tableau developer, Analyst roles
 
   ## 📌 Project Overview
 The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
